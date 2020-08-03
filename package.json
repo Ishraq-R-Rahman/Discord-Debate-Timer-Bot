@@ -1,0 +1,16 @@
+{
+  "name": "discord_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Shwarup_bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "opusscript": "0.0.7",
+    "ytdl-core": "^3.2.0"
+  }
+}
